@@ -3,4 +3,5 @@ Simple python hangman game with 2 difficulty levels. Getting word with Beautiful
 
 # Things I learned:
  • Parsing string with BeautifulSoup
+ 
  • Using Tkinter for simple GUI
